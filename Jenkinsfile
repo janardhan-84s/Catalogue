@@ -6,7 +6,7 @@ pipeline {
     environment { 
         appVersion = ''
         REGION = "us-east-1"
-        ACC_ID = "315069654700"
+        ACC_ID = "754039697554" //giving our ECS ID
         PROJECT = "roboshop"
         COMPONENT = "catalogue"
     }
